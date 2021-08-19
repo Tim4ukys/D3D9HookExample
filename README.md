@@ -2,7 +2,7 @@
 Пример хука Present и Reset в DirectX 9
 
 d3d9hook.cpp
-```
+```cpp
 ...
 void D3D9Hook::postReset(IDirect3DDevice9* pDevice)
 {
