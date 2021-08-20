@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/Tim4ukys/D3D9HookExample)](https://github.com/Tim4ukys/D3D9HookExample/blob/main/LICENSE)
+
 # D3D9HookExample
 Пример хука Present и Reset в DirectX 9 через DLL.
 ____
